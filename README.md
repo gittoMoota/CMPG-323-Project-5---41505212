@@ -23,10 +23,11 @@ Key Influencers: This feature is included on the High-Level Metrics page and hel
   
 Q&A: Added to the Client Monitoring page, this AI feature identifies allows the user to analyze the data by asking questions regarding the loaded data.
 
-REFERENCE LIST
+## **REFERENCE LIST** ##
+
 1.[Model data in Power BI](https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/)
 
-2.[Describe Powr BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/]
+2.[Describe Power BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/]
 
 3.[Describe capabilities of Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
 
