@@ -22,3 +22,14 @@ Key Influencers: This feature is included on the High-Level Metrics page and hel
   Decomposition Tree: Found on the Project Monitoring page, this feature allows users to drill down into the sum of total Savings, explained by the Project Technology and Project name. It provides a clear, hierarchical breakdown of the data, enabling more granular analysis.
   
 Q&A: Added to the Client Monitoring page, this AI feature identifies allows the user to analyze the data by asking questions regarding the loaded data.
+
+REFERENCE LIST
+1.[Model data in Power BI](https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/)
+
+2.[Describe Powr BI Desktop models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/]
+
+3.[Describe capabilities of Microsoft Power BI](https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/)
+
+4. ChatGPT
+
+5.Flutter
